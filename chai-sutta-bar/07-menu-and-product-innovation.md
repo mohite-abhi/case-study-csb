@@ -1,0 +1,7 @@
+- quality vs quantity
+    - we need quality product varieties
+    - we don't need large quantities of varieties
+        - it causes more wastage
+        - it needs more management/organisation
+        - it is more dependent on supply chain
+        - you want to sell what people like not what I like
