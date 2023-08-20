@@ -1,0 +1,7 @@
+- financial situation
+    - completely bootstrapped
+    - funded by franchises/outlets
+    - funding is good for faster growth, for companies that have lower turnover rate and larger amortization costs
+        - but for companies with lower current asset/working capital needs and faster turnovers, it's easier to operate bootstrapped
+        - and fund themselves and their growth
+        - funding can tinker with original decision making, like it did with apple

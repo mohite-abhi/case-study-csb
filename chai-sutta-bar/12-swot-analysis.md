@@ -1,0 +1,4 @@
+- strengths
+    - started earlier than other similar companies
+        - have tried/experimented more
+        - so have much more experience on what doesn't work
