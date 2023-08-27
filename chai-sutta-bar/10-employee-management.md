@@ -11,3 +11,8 @@
 
 - delegation
     - power should be given, with responsibility
+
+- uniform
+    - uniform in the outlets are well defined
+    - they are designed to serve a well defined purpose
+

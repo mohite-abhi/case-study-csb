@@ -8,3 +8,6 @@
 - kulhads supplied to franchises
     - some are broken as well
 - other ingredients and equipments are supplied too
+
+- SOPs
+    - they have well defined SOPs to do things in the good order
